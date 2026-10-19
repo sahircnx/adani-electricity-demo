@@ -1,0 +1,45 @@
+# ======================================================================
+# robots.txt for Adani Electricity Demo
+# Host Base: https://sahircnx.github.io/adani-electricity-demo
+# Generated: 2026-10-19 18:17:38
+# ======================================================================
+
+User-agent: *
+
+# Disallow 404 error handlers and error pages
+Disallow: /adani-electricity-demo/CustomErrorPage/
+Disallow: /adani-electricity-demo/*/CustomErrorPage/
+Disallow: /adani-electricity-demo/page-not-found/
+Disallow: /adani-electricity-demo/*/page-not-found/
+Disallow: /CustomErrorPage/
+Disallow: /*/CustomErrorPage/
+Disallow: /page-not-found/
+Disallow: /*/page-not-found/
+
+# Disallow login redirects, OTP validation, and password recovery
+Disallow: /adani-electricity-demo/login/
+Disallow: /adani-electricity-demo/registration-validate-otp/
+Disallow: /adani-electricity-demo/*/Registration-validate-otp/
+Disallow: /adani-electricity-demo/forgot-password/
+Disallow: /adani-electricity-demo/*/forgot-password/
+Disallow: /adani-electricity-demo/empportal/
+Disallow: /adani-electricity-demo/it-declarations/
+Disallow: /adani-electricity-demo/*/it-declarations/
+Disallow: /login/
+Disallow: /registration-validate-otp/
+Disallow: /*/Registration-validate-otp/
+Disallow: /forgot-password/
+Disallow: /*/forgot-password/
+Disallow: /empportal/
+Disallow: /it-declarations/
+Disallow: /*/it-declarations/
+
+# Disallow non-indexable query string variations
+Disallow: /*?*
+
+# Allow crawling of all public pages and assets
+Allow: /adani-electricity-demo/
+Allow: /
+
+# Sitemap Index Location
+Sitemap: https://sahircnx.github.io/adani-electricity-demo/sitemap.xml
