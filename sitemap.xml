@@ -28,31 +28,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/apply-new-connection/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/applynewconnection/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/bdr/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/bdr/application-status/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/bdr/register/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -88,481 +64,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/achievements/adani-electricity-recognized-as-indias-no-1-utility-for-the-third-consecutive-year/catId_998/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/achievements/catId_999/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/billing-insights/all-you-need-to-know-about-transition-to-kVAh-billing-across-maharashtra/catId_778/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/billing-insights/catId_777/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/csr/acchai-har-din-a-film-promoting-safety-awareness-with-goodness/catId_228/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/csr/adani-electricity-celebrates-the-3rd-annual-utthan-utsav/catId_497/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/csr/catId_32/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/csr/empowering-women-through-entrepreneurship-the-story-of-swateja-mart/catId_498/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/cyber-security/catId_3/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/cyber-security/fighting-electricity-theft-safeguarding-power-systems-and-communities/catId_49/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/catId_201/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/common-reasons-why-your-change-of-name-application-is-getting-rejected/catId_401/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/how-climate-change-affects-electricity-consumption/catId_1118/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/how-do-weather-conditions-affect-your-electricity-bill/catId_996/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/key-parameters-for-finding-the-best-solar-solutions-for-residential-purposes/catId_997/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/the-effects-of-climate-change-on-energy-consumption/catId_302/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/the-importance-of-electricity-bills-in-official-processes/catId_402/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/top-5-reasons-why-businesses-are-switching-to-solar-energy-in-2026/catId_1113/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/electrifying-insights/what-appliances-use-the-most-electricity-in-your-home/catId_997/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/festivities/acchai-har-din/catId_215/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/festivities/catId_2/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/green-tariff/catId_4/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/green-tariff/exploring-the-benefits-of-green-tariff/catId_8/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/green-tariff/green-tariff-planet-k-health-insurance-film/catId_15/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/catId_11/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/celebrating-the-unsung-heroes-of-adani-electricity-our-powerwarriors/catId_46/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/digital-payments-and-billing-during-monsoon-stay-dry-stay-connected/catId_810/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/explainer-why-voltage-fluctuates-during-monsoon-and-how-to-prevent-it/catId_809/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/how-do-monsoons-impact-electricity-supply-chains/catId_801/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/how-schools-can-teach-kids-about-electrical-safety-in-the-rain/catId_1111/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/how-to-choose-the-best-electrical-wire/catId_802/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/industrial-safety-during-rainy-season/catId_41/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/monsoon-ready-adani-electricitys-blueprint-for-weathering-the-monsoon/catId_39/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/navigating-heavy-rainfall-in-mumbai-a-guide-from-adani-electricity/catId_1112/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/navigating-the-challenges-get-your-ev-monsoon-ready/catId_40/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/power-warrior-film/catId_5/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/monsoon-ready/stay-safe-this-monsoon-a-comprehensive-guide-to-electrical-safety/catId_38/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/paperless-billing/catId_7/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/paperless-billing/understanding-the-changes-on-your-electricity-bill/catId_29/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/self-help-videos/catId_99/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/share-charge/catId_102/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/summer-saving/top-appliances-that-use-more-electricity-in-summer-and-how-to-optimize-their-use/catId_397/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/summer-savings/catId_17/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/summer-savings/competitive-bhi-sustainable-bhi/catId_14/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/summer-savings/how-to-encourage-kids-to-save-energy-during-summer/catId_398/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/summer-savings/summer-tips-for-commercial-and-industrial-electricity-customers/catId_499/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/accurate-billing-with-cutting-edge-meter-reading-solutions/catId_208/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/adani-electricity-change-of-name-on-bill/catId_369/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/adani-electricity-ushers-in-a-new-era-of-power-reliability-for-mumbai/catId_20/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/ai-data-centres-and-the-rising-demand-for-electricity/catId_1115/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/catId_13/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/change-of-name-on-bill/catId_331/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/how-adani-electricity-is-implementing-ai-for-its-digital-touchpoints/catId_1116/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/india-energy-stack-and-digital-public-infrastructure-for-power-utilitie/catId_1117/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/mobile-thermal-camera-revolutionising-frontline-operations/catId_765/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/scada-tech-film/catId_1/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/smart-meter-evolution-from-analog-to-digital-solutions/catId_202/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/smart-meter-evolution-from-analog-to-digital-solutions/catId_203/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/smart-meter-evolution-from-analog-to-digital-solutions/catId_52/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/smart-meter-myths-vs-facts-get-the-real-story/catId_51/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/smart-meters-paving-the-way-for-a-sustainable-energy-future/catId_47/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/smart-utilities-how-digitalisation-is-transforming-customer-experience/catId_1114/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/streamline-your-payments-with-the-multiple-electricity-bill-payments-feature/catId_701/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/the-role-of-ai-in-energy-management/catId_301/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/top5-reasons-to-set-up-an-ev-charging-station-in-your-housing-society/catId_340/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/transforming-workforce-management-for-enhanced-customer-experience/catId_48/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/blog/technology-first/unlocking-longevity-proven-ways-to-make-your-ev-battery-last-longer/catId_341/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/Regulations/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/about/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/complaint-handling/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/consumer-rights/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/download-orders/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/form-download/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/miscellaneous/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/other-links/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/regulation-act/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/mumbai/reports/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/cgrf/seepz/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -574,43 +76,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/change-name-on-bill/apply-now/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/change-name-on-bill/check-status/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/change-name-on-bill/update-address/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/complaint-login/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/connections/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/connections/agriculture/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/connections/commercial/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -628,31 +100,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/connections/industrial/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/connections/know-your-lec/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/connections/non-religious/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/connections/public-service/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/connections/religious/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -676,18 +124,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/download-press-kit/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/environmental-social-governance-initiatives/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/investors-relations/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -695,30 +131,6 @@
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/regulatory/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/whats-new/adani-electricity-news/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/whats-new/press-release/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/whats-new/updates/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/corporate/who-we-are/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -752,12 +164,6 @@
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/ApplyNewConnection/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/My-Account/Load-Change-Request/</loc>
@@ -796,12 +202,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/My-Account/sd-installment-opt/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/MyAccount/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -824,12 +224,6 @@
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/adani-dahanu-thermal-power-station/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/billing/</loc>
@@ -862,61 +256,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/Covid19/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/awards/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/ceo-message/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/chairman-message/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/closed-tenders-listing/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/download-press-kit/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/environmental-social-governance-initiatives/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/power-purchase-tender-listing/</loc>
+    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/whats-new/adani-electricity-news/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/whats-new/updates/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/who-we-are/seepz_true/</loc>
+    <loc>https://sahircnx.github.io/adani-electricity-demo/en/corporate/who-we-are/mumbai_true/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -940,46 +292,10 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/general-information/documents-required/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/general-information/online-application/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/general-information/procedures-of-application/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/general-information/schedule-charges/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/general-information/security-deposit/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/green-tariff/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/help-and-support/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/help-and-support/our-centers/</loc>
@@ -1006,22 +322,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/help-and-support/virtual-contact-centre/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/it-declarations/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/money-saver/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/money-saver/about-energy/</loc>
@@ -1079,12 +383,6 @@
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/en/money-saver/what-product-to-buy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/en/outage-information/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1168,84 +466,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/bill/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/billing/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/changing-supplier/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/cross-subsidy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/fac/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/general-queries/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/new-connection/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/payment/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/power-theft/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/regulatory/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/security-deposit/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/faqs/tariff/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/forgot-password/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/general-information/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1271,36 +491,6 @@
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/general-information/office-locations/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/general-information/online-application/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/general-information/procedures-of-application/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/general-information/schedule-charges/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/general-information/security-deposit/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/green-power-opt-in/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1354,25 +544,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/ApplyNewConnection/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/My-Account/Meter-Reading-Date/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/My-Account/check-complaint-status/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/My-Account/complaint-escalation-matrix/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1384,40 +556,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/My-Account/load-change-request/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/My-Account/meter-shifting-request/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/My-Account/offers-and-benefits/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/My-Account/sd-installment-opt/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/MyAccount/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/Registration-validate-otp/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/Sitemap/</loc>
@@ -1438,36 +580,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/apply-new-connection/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/billing/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/billing/billing-faqs/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/billing/know-your-bill/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/bills-and-payment/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/complaint-login/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -1478,42 +590,6 @@
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/Covid19/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/awards/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/ceo-message/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/chairman-message/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/closed-tenders-listing/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/download-press-kit/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/environmental-social-governance-initiatives/</loc>
@@ -1528,304 +604,10 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/whats-new/press-release/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/who-we-are/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/corporate/who-we-are/seepz_true/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/customertestimonial/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/digital-service/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/e-nach-registration/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/ease-of-doing-business/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/faqs-zonal/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/faqs/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/forgot-password/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/clearance-date/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/documents-required/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/meter-and-distributor-details/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/office-locations/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/online-application/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/procedures-of-application/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/schedule-charges/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/general-information/security-deposit/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/green-tariff/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/help-and-support/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/help-and-support/our-centers/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/help-and-support/our-genius-pay-centers/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/help-and-support/report-theft/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/help-and-support/send-your-query/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/help-and-support/virtual-contact-centre/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/it-declarations/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/about-energy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/ceiling-fan/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/emergency-care/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/energy-calculator/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/energy-conservation/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/energy-wizard/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/refrigerator/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/safety-for-you/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/simple-ways-to-save/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/money-saver/what-product-to-buy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/outage-information/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/pay-your-bill/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/pay-your-bill/mobile-based-payments/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/pay-your-bill/offline-payments/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/pay-your-bill/online-payments/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/privacy-policy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/quick-access/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/rooftop-solar/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/services/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/sharecharge/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/submit-meter-reading/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/switch-to-adani-electricity/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/hi-in/terms-and-conditions/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/it-declarations/</loc>
@@ -1852,436 +634,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/about-energy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/emergency-care/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/energy-calculator/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/energy-conservation/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/energy-wizard/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/safety-for-you/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/simple-ways-to-save/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/money-saver/what-product-to-buy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/check-complaint-status/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/complaint-escalation-matrix/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/download-forms/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/load-change-request/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/meter-reading-date/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/meter-shifting-request/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/offers-and-benefits/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/My-Account/sd-installment-opt/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/MyAccount/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/Registration-validate-otp/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/Services/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/Sitemap/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/Tariff/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/adani-dahanu-thermal-power-station/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/apply-new-connection/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/billing/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/billing/billing-faqs/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/billing/know-your-bill/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/bills-and-payment/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/complaint-login/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/contact-us/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/cookies-policy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/corporate/environmental-social-governance-initiatives/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/corporate/regulatory/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/corporate/whats-new/adani-electricity-news/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/corporate/whats-new/press-release/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/corporate/who-we-are/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/customertestimonial/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/digital-service/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/dsm-program/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/e-nach-registration/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/ease-of-doing-business/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/faqs-zonal/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/faqs/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/general-information/meter-details/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/green-tariff/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/help-and-support/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/help-and-support/our-centers/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/help-and-support/our-genius-pay-centers/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/help-and-support/send-your-query/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/help-and-support/street-light-complaint/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/help-and-support/virtual-contact-centre/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/it-declarations/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/about-energy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/emergency-care/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/energy-calculator/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/energy-conservation/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/energy-wizard/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/refrigerator/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/safety-for-you/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/simple-ways-to-save/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/money-saver/what-product-to-buy/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/outage-information/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/pay-your-bill/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/pay-your-bill/mobile-based-payments/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/pay-your-bill/offline-payments/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/pay-your-bill/online-payments/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/quick-access/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/rooftop-solar/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/sharecharge/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/submit-meter-reading/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/switch-to-adani-electricity/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/mr-in/terms-and-conditions/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/multiple-electricity-bill-payment/</loc>
@@ -2332,12 +688,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/my-account/report-delay-in-service/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/my-account/sd-installment-opt/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -2356,12 +706,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/pay-your-bill/offline-payments/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/pay-your-bill/online-payments/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2372,12 +716,6 @@
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/registration-validate-otp/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/rooftop-solar/</loc>
@@ -2393,24 +731,6 @@
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/sharecharge/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/sharecharge/ev-contact/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/sharecharge/ev-pedia/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/sharecharge/why-share-charge/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2438,12 +758,6 @@
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sahircnx.github.io/adani-electricity-demo/terms-and-conditions/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sahircnx.github.io/adani-electricity-demo/update-contact-details/</loc>

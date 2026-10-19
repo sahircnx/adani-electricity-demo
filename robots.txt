@@ -1,7 +1,7 @@
 # ======================================================================
 # robots.txt for Adani Electricity Demo
 # Host Base: https://sahircnx.github.io/adani-electricity-demo
-# Generated: 2026-10-19 18:17:38
+# Generated: 2026-10-19 18:59:42
 # ======================================================================
 
 User-agent: *
